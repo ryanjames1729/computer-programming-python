@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ryanjames1729/computer-programming-python/master)
 # Computer Programming: Python
 
 **Description:** This repo is for a semester long Python programming course for high school students. The contents are created use Jupyter notebooks. To look at the content online without installing Jupyter, please click on the 'Launch Binder' icon at the top of this ReadMe.
