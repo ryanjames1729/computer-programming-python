@@ -1,7 +1,7 @@
 # CDS - Programming
 # Counting Averages Assignment
 #
-# Student Name: TEACHER SOLUTION
+# Student Name:
 
 # Create variables needed for program
 entryCount = 0
