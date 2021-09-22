@@ -1,7 +1,7 @@
 # CDS - Programming
 # String Scrubber Assignment
 #
-# Student Name: TEACHER SOLUTION
+# Student Name:
 
 # Starting string - don't edit
 startingString = "xxXThis ixxXs the message. Make sure that you crxxXeate a waXxXy to decode the messXxXage. It has been encoxXxded for tXxXhe safety of everyone tryinxXxg to read this messagexXx."
