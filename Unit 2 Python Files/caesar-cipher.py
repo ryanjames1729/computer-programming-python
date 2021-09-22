@@ -1,7 +1,7 @@
 # CDS - Programming
 # Caesar Cipher Assignment
 #
-# Student Name: TEACHER SOLUTION
+# Student Name:
 
 testWord = "cat"
 testShift = 19
